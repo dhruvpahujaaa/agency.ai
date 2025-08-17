@@ -4,6 +4,8 @@ const nextConfig = {
   images: {
     domains: ['images.unsplash.com', 'randomuser.me'],
   },
+  output: 'standalone',
+  trailingSlash: false,
 }
 
 module.exports = nextConfig
