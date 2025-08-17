@@ -1,0 +1,21 @@
+
+> agency.ai-next.js@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.4.6
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.31.242:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1520ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1529ms (672 modules)
+ ✓ Compiled in 101ms (672 modules)
+ GET / 200 in 1984ms
+ GET / 200 in 238ms
+ ✓ Compiled in 145ms (672 modules)
+ ✓ Compiled in 150ms (672 modules)
+ ✓ Compiled in 283ms (672 modules)
+ ✓ Compiled in 140ms (672 modules)
+ ✓ Compiled in 85ms (672 modules)
